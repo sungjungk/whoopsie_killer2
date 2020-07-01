@@ -3,7 +3,6 @@
 import os,sys,math,time
 import argparse
 import select
-import psutil
 from pathlib import Path
 from systemd import journal
 
